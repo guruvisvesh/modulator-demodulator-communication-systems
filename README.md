@@ -87,7 +87,7 @@ The system successfully recovers the original message signal using analog signal
 ---
 
 ## 📷 Output
-(Add waveform images here)
+(All waveform images attached)
 
 ---
 
@@ -97,4 +97,4 @@ Full report available in `/docs`
 ---
 
 ## 👨‍💻 Author
-**Gurunikesh S**
+**Guruvisvesh S A**

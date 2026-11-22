@@ -1,0 +1,14 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\analog 2\project\final\modulation.asc
+Start Time: Wed Mar  4 11:27:06 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node N002 is floating.
+
+WARNING: Less than two connections to node n002.  This node is used by cc2.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.140 seconds.
+
